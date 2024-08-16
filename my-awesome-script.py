@@ -1,3 +1,4 @@
-#!/bin/python
 
-print("Howdy, World!")
+#!/bin/python
+# This is an awesome Python script
+print("Hello, World!")
